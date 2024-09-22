@@ -1,7 +1,7 @@
-pyrogram==2.0.106
-pytgcalls==3.0.0
-yt-dlp==2021.12.17  # Replacing youtube-dl with yt-dlp
-ffmpeg-python==0.2.0
+pyrogram
+pytgcalls
+yt-dlp
+ffmpeg-python
 
 # Additional useful dependencies:
 aiofiles
